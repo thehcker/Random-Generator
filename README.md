@@ -67,7 +67,7 @@ answer:
 0 1 2 2 5 9 4 3 16 3
 
 
-#Challenge 3: Depth First Search
+# Challenge 3: Depth First Search
 
 Algorithm Implementation
 Nice thing is that we need only slight modification of BFS to convert it to DFS:
